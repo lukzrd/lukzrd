@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Lucas Rodrigues Xavier, tenho 28 anos e sou de São Paulo. Estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[LukzDev](https://www.youtube.com/@LukzDev)" e no Tiktok"[Lukzkr](https://www.tiktok.com/@lukzkr)", onde compartilho minha jornada de estudos, e também através do Instagram, com o perfil chamado "[Lukz.Dev](https://www.instagram.com/lukz.dev/)".
+Me chamo Lucas Rodrigues Xavier, tenho 28 anos e sou de São Paulo. Estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologia e irei compartilhar meu conhecimento através do meu canal no YouTube "[LukzDev](https://www.youtube.com/@LukzDev)" e no Tiktok"[Lukzkr](https://www.tiktok.com/@lukzkr)", e também através do Instagram, com o perfil chamado "[Lukz.Dev](https://www.instagram.com/lukz.dev/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@LukzDev">
